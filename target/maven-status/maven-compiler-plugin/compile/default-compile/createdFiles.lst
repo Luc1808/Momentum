@@ -1,9 +1,10 @@
-io/github/Luc1808/momentum/domain/goal/GoalRequestDTO.class
 io/github/Luc1808/momentum/domain/activity/ActivityRequestDTO.class
-io/github/Luc1808/momentum/domain/goal/Goal.class
+io/github/Luc1808/momentum/service/ActivityService.class
 io/github/Luc1808/momentum/domain/activity/Activity.class
 io/github/Luc1808/momentum/repo/ActivityRepository.class
 io/github/Luc1808/momentum/domain/user/User.class
+io/github/Luc1808/momentum/domain/goal/GoalRequestDTO.class
+io/github/Luc1808/momentum/domain/goal/Goal.class
 io/github/Luc1808/momentum/domain/user/UserRequestDTO.class
 io/github/Luc1808/momentum/MomentumApplication.class
 io/github/Luc1808/momentum/repo/GoalRepository.class
