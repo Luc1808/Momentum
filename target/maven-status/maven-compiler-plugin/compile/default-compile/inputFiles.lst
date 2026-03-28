@@ -1,1 +1,10 @@
 /home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/MomentumApplication.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/domain/activity/Activity.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/domain/activity/ActivityRequestDTO.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/domain/goal/Goal.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/domain/goal/GoalRequestDTO.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/domain/user/User.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/domain/user/UserRequestDTO.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/repo/ActivityRepository.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/repo/GoalRepository.java
+/home/lucas/Documents/Momentum/src/main/java/io/github/Luc1808/momentum/repo/UserRepository.java

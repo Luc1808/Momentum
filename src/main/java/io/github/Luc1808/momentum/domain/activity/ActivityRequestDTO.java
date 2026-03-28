@@ -1,4 +1,6 @@
 package io.github.Luc1808.momentum.domain.activity;
 
-public class ActivityRequestDTO {
+import java.util.Date;
+
+public record ActivityRequestDTO(Boolean achieved, Integer numberMeasure, Date createdAt) {
 }
