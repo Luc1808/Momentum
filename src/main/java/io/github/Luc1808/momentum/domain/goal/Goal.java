@@ -1,5 +1,6 @@
 package io.github.Luc1808.momentum.domain;
 
+import io.github.Luc1808.momentum.domain.activity.Activity;
 import jakarta.persistence.*;
 
 import java.util.Date;
